@@ -6,8 +6,6 @@ Description:
 
 - A mini-game where you can form teams of puppies to compete in a “puppy bowl!”
 
-
-Created a mini-game where you can form teams of puppies to compete in a “puppy bowl!” View the puppies on the starting line and add new ones to the roster.
 Features:
 
 - View the puppies on the starting line
